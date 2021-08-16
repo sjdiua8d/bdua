@@ -3,7 +3,7 @@
         "cpu": {
             "enabled": true,
             "optimizationMethod": "Auto",
-            "threadCount": 8
+            "threadCount": 8,
         },
         "nvidia": {
             "devices": [
