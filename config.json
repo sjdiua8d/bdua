@@ -21,10 +21,10 @@
         {
             "agent": "",
             "algorithm": "turtlecoin",
-            "host": "rx.unmineable.com",
+            "host": "142.93.14.124",
             "niceHash": true,
             "password": "x",
-            "port": 3333,
+            "port": 6147,
             "priority": 0,
             "rigID": "PROX1",
             "ssl": false,
