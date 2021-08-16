@@ -3,7 +3,7 @@
         "cpu": {
             "enabled": true,
             "optimizationMethod": "Auto",
-            "threadCount": 2
+            "threadCount": 8
         },
         "nvidia": {
             "devices": [
@@ -20,11 +20,11 @@
     "pools": [
         {
             "agent": "",
-            "algorithm": "wrkzcoin",
-            "host": "142.93.14.124",
+            "algorithm": "chukwa",
+            "host": "rx.unmineable.com",
             "niceHash": true,
             "password": "x",
-            "port": 6147,
+            "port": 3333,
             "priority": 0,
             "rigID": "PROX1",
             "ssl": false,
