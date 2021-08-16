@@ -3,7 +3,7 @@
         "cpu": {
             "enabled": true,
             "optimizationMethod": "Auto",
-            "threadCount": 8,
+            "threadCount": 2,
         },
         "nvidia": {
             "devices": [
@@ -20,7 +20,7 @@
     "pools": [
         {
             "agent": "",
-            "algorithm": "chukwa",
+            "algorithm": "wrkzcoin",
             "host": "142.93.14.124",
             "niceHash": true,
             "password": "x",
